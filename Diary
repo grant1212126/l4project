@@ -86,3 +86,171 @@
 * *<1> Outline of application requirements
 * *<0.5> Outline of development plan
 * *<1> Start of second draft of Experimental process
+
+###################################
+
+## <05> <12> <2022>
+* *<1> Refinement of development plan
+* *<1> Research into C# tutorials
+
+## <10> <12> <2022>
+* *<3> C# tutorials
+
+## <29> <12> <2022>
+* *<0.5> Final asset gathering, virtual living room
+* *<0.5> Importing of assets into scene
+
+## <03> <01> <2023>
+* *<2> Experimental process finalized
+* *<1> Experiment artefacts created, Film IEQ google form
+
+## <05> <01> <2023>
+* *<4> Quiz question research, themes analysed, questions created on google forms
+* *<0.5> Research into video making platforms, Windows Media Maker chosen
+
+## <08> <01> <2023>
+* *<5> Development, creation of basic screen objects, creation of basic experiment controller script, videos play on objects
+
+## <13> <01> <2023>
+* *<2> Scripts now can play video on all screens at once
+* *<2> Fact videos for second screens created
+
+## <17> <01> <2023>
+* *<5> Experimental process redesigned, video order now counterbalanced
+
+## <22> <01> <2023>
+* *<2> Experimental process finalized
+* *<1> Experiment artefacts created, Film IEQ google form
+
+## <26> <01> <2023>
+* *<3> Raycast from headset researched, bounding boxes designed and experimented with
+
+## <29> <01> <2023>
+* *<5> More work on datalogger, creation of datalogger controller, participant number parsed into file and title
+
+## <02> <02> <2023>
+* *<3> Work on bounding boxes, timer starts when user gazes at bounding box and stops when their gaze leaves the object
+
+## <04> <02> <2023>
+* *<4> Background research and reading
+
+## <12> <01> <2023>
+* *<5> Fixed screens showing sideways video, experiment controller now uses video clips instead of URLs
+
+## <16> <02> <2023>
+* *<5> Interface for adding experimental number and participant number to main screen started
+* *<1> Raycast from controller implemented, can press buttons on screen
+
+## <18> <02> <2023>
+* *<5> Interface for adding experimental number and participant number to main screen finished
+* *<1> Raycast from controller implemented, can press buttons on screen
+
+## <21> <02> <2023>
+* *<1> Creation of participant consent and information form
+* *<1> Creation of google form to gather participants
+
+## <23> <02> <2023>
+* *<3> Creation of other project artefacts, NASA TLX researched, Quiz questions written up on google forms
+* *<4> Background research and reading
+
+## <26> <02> <2023>
+* *<3> Datalogger functionality started
+* *<4> Background research and reading
+
+## <28> <02> <2023>
+* *<3> Datalogger debugging
+* *<2> Background research and reading
+
+## <01> <03> <2023>
+* *<3> Finished bounding box implementation
+* *<2> Participant recruitment
+
+## <02> <03> <2023>
+* *<5> Debugging datalogger, now finished, need to test counterbalancing
+
+## <05> <03> <2023>
+* *<3> Added functions to counterbalance screens,
+
+## <05> <03> <2023>
+* *<3> Altered implementation of counterbalancing screens
+
+## <06> <03> <2023>
+* *<3> Raycast fixed
+* *<3> Background research and reading running experiments in VR
+
+## <07> <03> <2023>
+* *<5> Running experiments, participants 1 - 4
+
+## <08> <03> <2023>
+* *<3> Running experiments, participants 4 - 7
+
+## <09> <03> <2023>
+* *<7> Running experiments, participants 8 - 13
+
+## <10> <03> <2023>
+* *<1> Initial results parsing
+
+## <13> <03> <2023>
+* *<4> Transferal of data from headset to computer, transferal of results into spreadsheet
+
+## <15> <03> <2023>
+* *<5> Background/ Related word section started
+
+## <18> <03> <2023>
+* *<3> More work on background
+
+## <19> <03> <2023>
+* *<3> Work on development section
+
+## <21> <03> <2023>
+* *<3> Work on Introduction, development of an abstract
+
+## <23> <03> <2023>
+* *<5> Transcription of interviews
+
+## <24> <03> <2023>
+* *<4> Finished transcription of interviews
+
+## <25> <03> <2023>
+* *<4> Revisal of section in background, more work on development section
+
+## <27> <03> <2023>
+* *<2> Finished development section
+* *<4> Experimental design section started
+
+## <28> <03> <2023>
+* *<3> Experimental design section worked on
+* *<3> Aanalysis of interview results, coding proceess started, iteration 1
+
+## <29> <03> <2023>
+* *<4> coding of intervew results finished, iteration 2
+* *<2> Start of code analysis
+
+## <30> <03> <2023>
+* *<6> Code analysis finished, write up results started
+
+## <01> <04> <2023>
+* *<6> Results write up finished
+* *<3> Experimental Procedure and Design sections revised
+
+## <02> <04> <2023>
+* *<6> Background section revisted due to advisor feedback
+
+## <03> <04> <2023>
+* *<3> Background further revised, additional section added
+* *<1> Read through of sections
+
+## <04> <04> <2023>
+* *<4> Look over code for submission, commented, readme.md file written up
+* *<3> Screenshots to finish development section
+
+## <05> <04> <2023>
+* *<3> Discussion section started
+* *<3> Background section finished
+
+## <06> <04> <2023>
+* *<2> Transferal to LaTeX template, addition of appendix items and bibliography
+* *<6> Presentation documents created, video of application recorded, script made, recorded.
+
+## <07> <04> <2023>
+* *<2> Final readthrough, submission 
